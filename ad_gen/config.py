@@ -1,0 +1,1 @@
+subreddit = "lightspeed007"  # Posting to r/test which is designed for testing
