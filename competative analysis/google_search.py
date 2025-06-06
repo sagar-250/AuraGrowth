@@ -1,7 +1,6 @@
 import requests
 
-API_KEY = "AIzaSyBusTK-5n_vCG6dO7d80D79dWj4iJcDdtc"
-CSE_ID = "76b970c846c4542ff"
+
 
 def google_search(query, api_key=API_KEY, cse_id=CSE_ID, num_results=1):
     url = "https://www.googleapis.com/customsearch/v1"
